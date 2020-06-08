@@ -1,6 +1,7 @@
 # Folium-Philadelphia-Crime-Data-Simulator
 Trying to Simulate Philadelphia Crime Data Using Folium
 
+Demo
 
 ![Crimes in Philadelphia Demo](results/Demo.gif)
 
