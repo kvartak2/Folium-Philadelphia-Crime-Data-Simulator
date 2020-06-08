@@ -2,7 +2,7 @@
 Trying to Simulate Philadelphia Crime Data Using Folium
 
 
-![Crimes in Philadelphia Demo](Demo.gif)
+![Crimes in Philadelphia Demo](results/Demo.gif)
 
 
 Requirements:
