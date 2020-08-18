@@ -14,7 +14,7 @@ Requirements:
 
 •	jupyter notebook
 
-•	bokeh
+•	folium
 
 
 Dataset : https://www.kaggle.com/mchirico/philadelphiacrimedata
